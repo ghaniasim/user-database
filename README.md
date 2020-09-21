@@ -1,8 +1,10 @@
 # User Database
 
 This app saves user contact details and display it in a recycler view.
-- It has been created using MVVM and Android Jetpack Navigation Component architecture. 
-- Data is saving in Room Database.
+- MVVM.
+- Android Jetpack Navigation Component. 
+- Room database.
+- Coroutines.
 
 ## Screenshots
 
