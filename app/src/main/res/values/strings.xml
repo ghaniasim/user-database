@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">User Database</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="contact_types">
+        <item></item>
+        <item>Phone</item>
+        <item>Twitter</item>
+        <item>Facebook</item>
+        <item>LinkedIn</item>
+        <item>GitHub</item>
+    </string-array>
+</resources>
